@@ -1,13 +1,15 @@
-### Hi there 👋
+### PROGRAMMING LANGUAGES
+TypeScript • CSS • Python • Solidity
 
+### JS FRAMEWORK/LIBRARY
+NextJS • ReactJS • 
 
-### Languages
-- Typescript
-- Javascript
-  
+### CSS FRAMEWORK/LIBRARY
+TailwindCSS • Material UI • Chakra UI • Framer Motion 
 
-### Databases
-- Mongo
-- Postgres
+### DATABASE / STATE / BACKEND
+MongoDB • NodeJS ExpressJS 
 
+### PACKAGE MANAGER / VCS
+NPM • Yarn • Git • GitHub
 
