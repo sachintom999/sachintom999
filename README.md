@@ -1,15 +1,18 @@
-### PROGRAMMING LANGUAGES
+### Programming Languages
 TypeScript • CSS • Python • Solidity
 
-### JS FRAMEWORK/LIBRARY
-NextJS • ReactJS • 
+### JS Frameworks/Library
+NextJS • ReactJS 
 
-### CSS FRAMEWORK/LIBRARY
+### CSS Frameworks/Library
 TailwindCSS • Material UI • Chakra UI • Framer Motion 
 
-### DATABASE / STATE / BACKEND
-MongoDB • NodeJS ExpressJS 
+### Database / State / Backend
+MongoDB • NodeJS • Express • Redux
 
-### PACKAGE MANAGER / VCS
+### Package Manager / Version Control
 NPM • Yarn • Git • GitHub
+
+### Devops / Containerisation
+AWS • Docker
 
