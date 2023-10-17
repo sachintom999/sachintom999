@@ -8,7 +8,7 @@ NextJS • ReactJS
 TailwindCSS • Material UI • Chakra UI • Framer Motion 
 
 #### Database / State / Backend
-MongoDB • NodeJS • Express • Redux • Django
+Postgres • MongoDB • NodeJS • Express • Redux • Django
 
 #### Package Manager / Version Control
 NPM • Yarn • Git • GitHub
