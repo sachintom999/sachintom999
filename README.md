@@ -14,5 +14,5 @@ Postgres • MongoDB • NodeJS • Express • Redux • Django
 NPM • Yarn • Git • GitHub
 
 #### Devops / Containerisation
-AWS • Docker
+AWS • Docker •
 
