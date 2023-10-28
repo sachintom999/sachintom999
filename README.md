@@ -1,18 +1,33 @@
-#### Programming Languages
-TypeScript • CSS • Python • Solidity
+**Programming Languages**
+<br><br>
+• TypeScript • Python • Solidity
+<br><br>
 
-#### JS Frameworks/Library
-NextJS • ReactJS 
 
-#### CSS Frameworks/Library
-TailwindCSS • Material UI • Chakra UI • Framer Motion 
 
-#### Database / State / Backend
-Postgres • MongoDB • NodeJS • Express • Redux • Django
+**JS Frameworks/Library**
+<br><br>
+• NextJS • ReactJS 
+<br><br>
 
-#### Package Manager / Version Control
-NPM • Yarn • Git • GitHub
 
-#### Devops / Containerisation
-AWS • Docker •
+**CSS Frameworks/Library**
+<br><br>
+• TailwindCSS • Material UI • Chakra UI • Framer Motion 
+<br><br>
+
+**Database / State / Backend**
+<br><br>
+• Postgres • MongoDB • NodeJS • Express • Redux • Django
+<br><br>
+
+**Package Manager / Version Control**
+<br><br>
+• NPM • Yarn • Git • GitHub
+<br><br>
+
+**Devops / Containerisation**
+<br><br>
+• AWS • Docker •
+<br><br>
 
